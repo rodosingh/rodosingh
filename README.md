@@ -1,4 +1,4 @@
-# There u r ! ⊂(◉‿◉)つ  <!--(-‿-)--> 😉 🤟
+# There u r ! <!--(-‿-)--> 😉 🤟
 Hi!
 Me myself RODO. "Naam to suna hi hoga!"
 
@@ -9,5 +9,3 @@ I've done both my undergrad and masters in IISER Kolkata, in Mathematics and Sta
 I am very ardent about different applications of data science. And I believe, though I've started late, I will master a significant part of my ineterest. 
 
 Besides, I love to play badminton, go for marathon, painting (btw have a look at my insta [page](https://www.instagram.com/rodo.arts/)), rapping (yeah you read it right!), cooking, cycling and eating😉.
-
-
