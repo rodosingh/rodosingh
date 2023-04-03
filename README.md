@@ -1,7 +1,7 @@
 ![banner](https://github.com/rodosingh/rodosingh/blob/main/avatar-grad.png)
 
 <!-- <img alt="Night Coding" src="https://github.com/rodosingh/rodosingh/blob/main/giphy.webp" width='40' align="left"/><h2>👋 &nbsp;Hey there! I'm Aditya</h2> -->
-![GitHub followers](https://img.shields.io/github/followers/rodosingh?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/rodosingh?style=social) [![Visitors](https://api.visitorbadge.io/api/visitors?path=rodosingh%2Frodosingh&label=Visitors&countColor=%23263759&style=plastic)](https://visitorbadge.io/status?path=rodosingh%2Frodosingh) <img src="https://komarev.com/ghpvc/?username=rodosingh" alt="rodosingh" />
+![GitHub followers](https://img.shields.io/github/followers/rodosingh?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/rodosingh?style=social) [![Visitors](https://api.visitorbadge.io/api/visitors?path=rodosingh%2Frodosingh&label=Visitors&labelColor=%235d5d5d&countColor=%231e7cbd&style=plastic)](https://visitorbadge.io/status?path=rodosingh%2Frodosingh) <img src="https://komarev.com/ghpvc/?username=rodosingh" alt="rodosingh" />
 ---
 
 ### 🤵 About Me:
