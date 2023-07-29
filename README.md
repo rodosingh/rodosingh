@@ -12,7 +12,7 @@
     <li>:bulb: <b>I like to explore</b>: novel AI techniques and solutions for problems in <a href="https://en.wikipedia.org/wiki/Multimodal_learning">Video-Language</a> (Multimodal) sub-domain.</li>
     <li>🌱 <b>I’m currently at</b>: <a href="https://www.iiit.ac.in/">IIIT Hyderabad</a> pursuing <a href="https://www.iiit.ac.in/academics/postgraduate/ms/cse/">MS by Research</a> in CSE.</li>
     <li>🎯 <b>I’m currently focusing on</b>: on ways to better Multi-modal Video Summarization (<i>whose code will be released soon</i>. Please, ⭐️ star the project if you like it 🤩).</li>
-    <li>🤔 <b>I’m currently open for</b>: A new job opportunity in the AI/ML research domain, <a href="https://drive.google.com/file/d/1b2gp1qUyIQT0sl5WHZDuP87cqSEJ0vHI/view?usp=sharing">LINK TO MY RESUME</a>. Please put your feedback and suggestions, if any.</li>
+    <li>🤔 <b>I’m currently open for</b>: A new job opportunity in the AI/ML research domain, <a href="https://drive.google.com/file/d/1lfR3s2IgNJA5gHdu3l3mFtlZX64QigB8/view?usp=sharing">LINK TO MY RESUME</a>. Please put your feedback and suggestions, if any.</li>
     <li>💬 <b>Feel free to ask me</b>: about anything via email, LinkedIn, or Twitter, as mentioned below 👇. I'll try to respond as soon as I can.</li>
 <!--     <li>📫 <b>How to reach me</b>: Catch and follow me up via the below links 👇, in addition to follow me here.</li>
     <li>:free: <b>In my free time</b>: I pursue Cycling (🚴), Badminton (🏸), or Running (🏃) as hobbies/side hustles.<>
